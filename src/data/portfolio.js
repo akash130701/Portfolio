@@ -21,7 +21,7 @@ export const navItems = [
 
 export const projects = [
   {
-    title: 'Ericsson',
+    title: 'Patent Forecasting',
     category: 'Machine Learning | Forecasting | Segmentation',
     domain: 'ml',
     summary:
