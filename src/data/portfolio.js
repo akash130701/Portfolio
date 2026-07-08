@@ -99,11 +99,15 @@ export const skills = [
     items: ['PySpark', 'ETL/ELT', 'Data Modelling', 'Amazon Redshift', 'DuckDB', 'Data Quality', 'AWS DMS', 'AWS Glue', 'AWS Lambda', 'AWS Athena', 'AWS SNS', 'AWS EMR'],
   },
   {
+    group: 'Generative AI',
+    items: ['Azure AI Document Intelligence', 'Azure OpenAI', 'Cognitive Search', 'LangChain', 'Codex', 'RAG'],
+  },
+  {
     group: 'Machine Learning & Analytics',
-    items: ['Forecasting', 'Random Forest', 'Decision Trees', 'Clustering', 'NLP', 'BERT', 'TF-IDF', 'Scenario Analysis', 'Optimisation'],
+    items: ['Forecasting', 'Random Forest', 'Decision Trees', 'Clustering', 'NLP', 'BERT', 'TF-IDF', 'Scenario Analysis', 'Optimisation', 'Regression', 'Neural networks', 'Gradient Boosting'],
   },
   {
     group: 'Cloud & Tools',
-    items: ['AWS', 'Azure', 'Git', 'Docker', 'Vite', 'Netlify'],
+    items: ['AWS', 'Azure', 'Git', 'Docker', 'Vite', 'Netlify', 'Databricks'],
   },
 ]

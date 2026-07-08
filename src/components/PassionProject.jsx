@@ -8,7 +8,7 @@ export default function PassionProject() {
           <div className="flex items-center gap-4">
             <img src="/freshops-logo.svg" alt="FreshOps logo" className="h-14 w-14 rounded-2xl bg-slate-100 p-2" />
             <div>
-              <p className="text-sm font-semibold uppercase tracking-[0.25em] text-sky-700">FreshOps</p>
+              <p className="text-sm font-semibold uppercase tracking-[0.25em] text-sky-700"><a href="https://freshops.streamlit.app/" target="_blank" rel="noopener noreferrer">FreshOps</a></p>
               <p className="mt-1 text-lg font-bold text-slate-950">Weekly produce planning for less waste</p>
             </div>
           </div>
