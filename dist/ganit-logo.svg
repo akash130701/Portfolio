@@ -1,8 +1,0 @@
-<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="160" height="160" rx="32" fill="#0F172A"/>
-  <path d="M45 42H74C89.464 42 102 54.536 102 70V70C102 85.464 89.464 98 74 98H45V42Z" fill="#38BDF8"/>
-  <path d="M45 98H92C107.464 98 120 110.536 120 126V126C120 141.464 107.464 154 92 154H45V98Z" fill="#F8FAFC"/>
-  <path d="M74 58C82.8366 58 90 65.1634 90 74V74C90 82.8366 82.8366 90 74 90H45V58H74Z" fill="#0F172A"/>
-  <rect x="45" y="106" width="40" height="16" rx="8" fill="#38BDF8"/>
-  <text x="50" y="139" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Ganit</text>
-</svg>
