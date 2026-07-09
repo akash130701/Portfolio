@@ -111,3 +111,33 @@ export const skills = [
     items: ['AWS', 'Azure', 'Git', 'Docker', 'Vite', 'Netlify', 'Databricks'],
   },
 ]
+
+export const passionProjects = [
+  {
+    title: 'FreshOps',
+    subtitle: 'Weekly produce planning for less waste',
+    description: 'Built a Streamlit app to reduce fruit and vegetable waste by planning weekly consumption around quantity and shelf life. Used PuLP-based optimisation logic to allocate produce across the week while respecting expiry constraints, helping users make practical grocery decisions and avoid unnecessary spoilage.',
+    highlights: [
+      'Optimises weekly produce usage by considering remaining shelf life.',
+      'Allocates fruit and vegetables to meals when they will be used best.',
+      'Helps users reduce spoilage and make grocery decisions with confidence.',
+    ],
+    logo: '/freshops-logo.svg',
+    link: 'https://freshops.streamlit.app/',
+    tools: ['Streamlit', 'Python', 'PuLP', 'Optimisation'],
+  },
+  {
+    title: 'FindMyUniAccomodation',
+    subtitle: 'Neighbourhood comparison for student housing',
+    description: 'A Streamlit decision analytics app that helps UK students compare neighbourhoods by estimated total monthly cost, rent burden, commute, safety, grocery access, amenities, and student suitability. Built for Manchester using a curated sample dataset, designed as a portfolio project for MSc Business Analytics roles.',
+    highlights: [
+      'Affordability calculator based on budget, income, savings target, room type, lifestyle, and commute preference.',
+      'Weighted neighbourhood scoring model out of 100 with interactive map and ranked recommendations.',
+      'Monthly cost breakdown by rent, bills, groceries, transport, phone, gym, eating out, and emergency buffer.',
+    ],
+    logo: null,
+    link: null,
+    tools: ['Streamlit', 'Python', 'Pandas', 'Plotly', 'Decision Analytics', 'Data Visualization'],
+  },
+]
+

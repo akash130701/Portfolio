@@ -3,7 +3,7 @@ import Hero from './components/Hero'
 import About from './components/About'
 import Projects from './components/Projects'
 import Experience from './components/Experience'
-import PassionProject from './components/PassionProject'
+import PassionProjects from './components/PassionProject'
 import Skills from './components/Skills'
 import MyStory from './components/MyStory'
 import Contact from './components/Contact'
@@ -18,7 +18,7 @@ export default function App() {
         <About />
         <Projects />
         <Experience />
-        <PassionProject />
+        <PassionProjects />
         <Skills />
         <MyStory />
         <Contact />
